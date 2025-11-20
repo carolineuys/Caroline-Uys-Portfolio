@@ -93,6 +93,7 @@ this is my gcode file: [Download cuysresistorcode.mkc](assets/files/PCB%20files/
 14. Press “on”
 15. Then click origin 
 16. Hit run
+  
 This is what the toolpath for the CNC machine should look like in MakeraCam:
 <img width="2682" height="1626" alt="PCBgcode" src="https://github.com/user-attachments/assets/4020aedd-23dd-4ef6-bee7-b091bb63c35e" />
 
