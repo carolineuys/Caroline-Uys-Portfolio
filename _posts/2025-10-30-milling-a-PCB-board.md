@@ -11,7 +11,7 @@ tags:
 ## Setting up the toolpath:
 Before milling, you must create a tool path for the PCB board in MakeraCam so that the CNC machine will know what path to take while milling. This process started with uploading the design into MakeraCam and selecting the area that would be used for a 2D pocket toolpath which is when the CNC machine only takes off a layer (in this case it was 0.05mm deep) of the copper rather than cutting all the way through. The purpose of the pocket is to ensure that there is only copper for current to flow through in the areas where the electronics will be soldered on. The 0.8mm corn and 0.2mm 30º engraving bits were used for the 2D pocket. Next, I selected all of the holes that would be for the 2D drilling toolpath which means the bit chosen (in this case it was the 0.8mm corn) will just drill a hole straight through the board (1.7mm deep). Lastly, I selected the outer edge of the design for the 2D contour cut which is a straight line cut all the way through the board (1.7mm deep). For this I also used to 0.8mm corn bit and I added tabs to the path so that the PCB board would not fall down after being cut all the way around. Something I had to keep in mind throughout this entire process was that there was a design flaw with the outer edge - there were two lines very close together that was tricky to see, so I always had to make sure I only had the inner edge selected.
 
-This is my .nc file: [Download cuysresistor.nc](assets/files/PCB files/cuysresistor.nc)
+This is my .nc file: [Download cuysresistor.nc](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/PCB/cuysresistor.nc)
 
 This is my gcode file: [Download cuysresistorcode.mkc](assets/files/PCB files/cuysresistorcode.mkc)
 
