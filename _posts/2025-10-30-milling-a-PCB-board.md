@@ -13,7 +13,7 @@ Before milling, you must create a tool path for the PCB board in MakeraCam so th
 
 This is my .nc file: [Download cuysresistor.nc](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/PCB/cuysresistor.nc)
 
-This is my gcode file: [Download cuysresistorcode.mkc](assets/files/PCB files/cuysresistorcode.mkc)
+This is my gcode file: [Download cuysresistorcode.mkc](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/PCB/cuysresistorcode.mkc)
 
 ## Workflow for preparing design:
 1. Open new 3D project
