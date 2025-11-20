@@ -15,6 +15,7 @@ This is my .nc file: [Download cuysresistor.nc](https://github.com/carolineuys/C
 
 This is my gcode file: [Download cuysresistorcode.mkc](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/PCB/cuysresistorcode.mkc)
 
+These are the KiCad files: [Download Resistance1-Edge_Cuts.gbr](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/PCB/Resistance1-Edge_Cuts.gbr) [Download Resistance1-F_Cu.gbr](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/PCB/Resistance1-F_Cu.gbr) [Download Resistance1-PTH.drl](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/PCB/Resistance1-PTH.drl)
 ## Workflow for preparing design:
 1. Open new 3D project
 2. Set material to PCB: Edit→Material→PCB
