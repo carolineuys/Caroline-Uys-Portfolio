@@ -32,10 +32,10 @@ These are the KiCad files: [Download Resistance1-Edge_Cuts.gbr](https://github.c
 - File→Import PCB→Downloads→Resistance1-PTH.drl→Open
 - File→Import PCB→Downloads→Resistance1-F_Cu.gbr→Open
 <img width="757" height="323" alt="Screenshot 2025-11-20 at 11 16 01 PM" src="https://github.com/user-attachments/assets/527ae20d-c007-49e7-8b44-89dffe4c1ec1" />
-<img width="918" height="389" alt="Screenshot 2025-11-20 at 11 16 59 PM" src="https://github.com/user-attachments/assets/975e3dc1-7983-494c-a6b4-1d95e68c6736" />
-<img width="920" height="390" alt="Screenshot 2025-11-20 at 11 17 34 PM" src="https://github.com/user-attachments/assets/9cc06173-7f30-47f3-bb62-f2b4a6c80fa3" />
-<img width="920" height="387" alt="Screenshot 2025-11-20 at 11 17 40 PM" src="https://github.com/user-attachments/assets/bc2867d1-4efd-4472-acb0-742310942936" />
-<img width="922" height="394" alt="Screenshot 2025-11-20 at 11 17 47 PM" src="https://github.com/user-attachments/assets/06481e27-d19b-4356-acfa-0190842acd3e" />
+<img width="757" height="323" alt="Screenshot 2025-11-20 at 11 16 59 PM" src="https://github.com/user-attachments/assets/975e3dc1-7983-494c-a6b4-1d95e68c6736" />
+<img width="757" height="323" alt="Screenshot 2025-11-20 at 11 17 34 PM" src="https://github.com/user-attachments/assets/9cc06173-7f30-47f3-bb62-f2b4a6c80fa3" />
+<img width="757" height="323" alt="Screenshot 2025-11-20 at 11 17 40 PM" src="https://github.com/user-attachments/assets/bc2867d1-4efd-4472-acb0-742310942936" />
+<img width="757" height="323" alt="Screenshot 2025-11-20 at 11 17 47 PM" src="https://github.com/user-attachments/assets/06481e27-d19b-4356-acfa-0190842acd3e" />
 6. Anchor lower left corner:
 - Select whole design (highlight over everything)
 - Click “m” key
