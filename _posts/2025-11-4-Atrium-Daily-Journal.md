@@ -45,6 +45,5 @@ These are the pictures of the current clamp they are using and the parts of the 
 ![clampplatform](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/clampplatform.png)
 ![clampbase](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/clampbase.png)
 These are all of the files for the clamp design that we've been using:
-[Download](
-
+[Download articulated-arm-model_files.zip](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Atrium/articulated-arm-model_files.zip)
 My goal is to create a clamp in Fusion360 that looks like the clamp that they are using because it is adjustable to wheelchairs and tables, but their current problem is that it is expensive and they keep losing the piece that makes it fit a table. To fix this, I am going to add a little part on the clamp where the piece that gets lost can connect to the larger part of the clamp with a string.
