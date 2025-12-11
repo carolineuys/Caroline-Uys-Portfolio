@@ -39,3 +39,12 @@ We had our first check-in meeting today with Ms. Heather over zoom to discuss ou
 
 12/10
 We had our second in-person meeting at Atrium today. Marisol gave her a few updates on the progress with training the underclassmen in CAD and 3D printing. So far she has had about 6 training sessions and a few of the underclassmen are working on some smaller projects like the bookholder and cutting board. Marisol also showed her the prototype of the current donning tube design and it was approved by Ms. Heather. Karlin showed the different quadstick mouthpieces that she had printed out and she was advised to make them a little bigger and also try to make a design with the screws, normally separate, built in. Scarlett and I demonstrated the mount model that we have with the current attachments. We determined that the ball joint attachment is going to be the most useful because it has the best range of motion compared to the other attachment that can only spin around on one axis. Coming out of this meeting, I am going to be working on designing a clamp that is adaptable to tables and to wheelchairs using their current clamp as a model. Scarlett is going to focus on designing more attachments that can all be put onto our mount design.
+These are the pictures of the current clamp they are using and the parts of the design we found:
+![currentwheelchairclamp](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/currentwheelchairclamp.png)
+![clampscrew](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/clampscrew.png)
+![clampplatform](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/clampplatform.png)
+![clampbase](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/clampbase.png)
+These are all of the files for the clamp design that we've been using:
+[Download](
+
+My goal is to create a clamp in Fusion360 that looks like the clamp that they are using because it is adjustable to wheelchairs and tables, but their current problem is that it is expensive and they keep losing the piece that makes it fit a table. To fix this, I am going to add a little part on the clamp where the piece that gets lost can connect to the larger part of the clamp with a string.
