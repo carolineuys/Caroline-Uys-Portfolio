@@ -3,6 +3,7 @@ title: "Mount Kilimanjaro Topography 3D Print"
 categories: 
   - blog
   - in-class assignment
+date: 2025-11-13
 tags: 
   - update
 ---
