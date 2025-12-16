@@ -3,6 +3,7 @@ title: "Pen Turning"
 categories: 
   - blog
   - in-class assignment
+date: 2025-10-17
 tags: 
   - update
 ---
