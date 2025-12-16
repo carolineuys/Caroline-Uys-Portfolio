@@ -1,6 +1,5 @@
 ---
 title: "Solder Owl"
-date: 2025-20-17 10:36:00 -0400
 categories: 
   - project
 tags: 
@@ -15,4 +14,5 @@ The second project we have done in-class was a small soldering refresher with a 
 <img width="3264" height="2448" alt="IMG_1247" src="https://github.com/user-attachments/assets/64463ba3-2d26-4640-afee-0a9c3513597f" />
 <img width="3264" height="2448" alt="IMG_1248" src="https://github.com/user-attachments/assets/84c8d3c2-b6a2-4c61-b47b-748e7fac4538" />
 <img width="3264" height="2448" alt="IMG_1249" src="https://github.com/user-attachments/assets/6202f1b6-ff8b-4d83-b089-d15dc6ebacf9" />
+
 https://github.com/user-attachments/assets/dda80b4a-5acd-4cef-9a01-b6c7ca2358ab
