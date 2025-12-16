@@ -2,6 +2,7 @@
 title: "Solder Owl"
 categories: 
   - project
+date: 2025-10-17
 tags: 
   - Jekyll
   - update
@@ -16,3 +17,4 @@ The second project we have done in-class was a small soldering refresher with a 
 <img width="3264" height="2448" alt="IMG_1249" src="https://github.com/user-attachments/assets/6202f1b6-ff8b-4d83-b089-d15dc6ebacf9" />
 
 https://github.com/user-attachments/assets/dda80b4a-5acd-4cef-9a01-b6c7ca2358ab
+
