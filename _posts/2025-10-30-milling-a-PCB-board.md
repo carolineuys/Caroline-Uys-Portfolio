@@ -1,6 +1,5 @@
 ---
 title: "Milling a PCB board"
-date: 2025-10-30 08:30:00 -0400
 categories: 
   - blog
   - in-class assignment
