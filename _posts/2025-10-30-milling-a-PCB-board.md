@@ -3,6 +3,7 @@ title: "Milling a PCB board"
 categories: 
   - blog
   - in-class assignment
+date: 2025-10-30
 tags:
   - update
 ---
