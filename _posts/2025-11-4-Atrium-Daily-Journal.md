@@ -1,9 +1,8 @@
 ---
-title: " Atrium and Pearl Daily Journal"
+title: " Atrium Daily Journal"
 categories: 
   - blog
   - Atrium
-  - Pearl
 date: 2025-11-4
 tags: 
   - update
