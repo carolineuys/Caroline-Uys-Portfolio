@@ -13,6 +13,7 @@ Today we printed out 3D mountains that we chose on the website terrain2stl. I ch
 <img width="1083" height="888" alt="Screenshot 2025-11-13 103927" src="https://github.com/user-attachments/assets/95d88d68-61fd-41a0-bfad-209e596bec62" />
 This is the final, printed design:
 ![mountain topography](https://github.com/user-attachments/assets/3a1a7e8b-dc64-404e-b272-d01b8b831dbb)
+You can download the 3D printing file here: [Download 3D print file](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Kilimanjaro/UYSterrain-90887%20(1).3mf)
 
 # 11/20/2025
 After successfully printing out the mountains, our next step was to create a toolpath in Aspire that we are going to use with the CNC machine to mill the mountains into wood blocks. This is the workflow for creating the toolpath in Aspire:
@@ -113,7 +114,7 @@ Choose your Post-Processor( the "driver" for your Carvera ATC CNC machine) → C
 You will now have the .gcode (or .nc, etc.) file to run at your CNC machine, as a file that will automatically run each toolpath one after another.
 
 # 12/03-05
-These past couple of days I have been creating the toolpaths for a cnc machine in Aspire for my Kilimanjaro topography. I had to make three different toolpaths for this design: profile, roughing, and finishing. Roughing is to carve out the majority of the wood and it uses the .8mm corn bit, finishing is for making the design more detailed and is used with a .2mm ball bit, and the profile cut is the final step which is to cut all the way around the design and also uses a .8mm corn bit. I exported the toolpaths from Aspire as a single .cnc file so that it can be put into MakeraCam when it is exported. You can download my file here: 
+These past couple of days I have been creating the toolpaths for a cnc machine in Aspire for my Kilimanjaro topography. I had to make three different toolpaths for this design: profile, roughing, and finishing. Roughing is to carve out the majority of the wood and it uses the .8mm corn bit, finishing is for making the design more detailed and is used with a .2mm ball bit, and the profile cut is the final step which is to cut all the way around the design and also uses a .8mm corn bit. I exported the toolpaths from Aspire as a single .cnc file so that it can be put into MakeraCam when it is exported. You can download my file here: [Download toolpaths](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Kilimanjaro/UYSterrain-90887toolpaths%20(1).cnc)
 This is a picture of what my toolpaths looked like:
 
 # 12/08
