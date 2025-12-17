@@ -119,5 +119,5 @@ This is a picture of what my toolpaths looked like:
 12/08
 Today I milled the topography map on wood by first importing my .cnc file to MakeraCam and then homing the device, offset the bottom left corner of the coordinate axes by 6mm each and then I ran the design. 
 Here's a top and side view of the final piece:
-![kilfromtop](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/kilfromtop.HEIC)
-![kilfromside](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/kilfromside.HEIC)
+![kilfromtop](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/kilfromtop.jpg)
+![kilfromside](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/kilfromside.jpg)
