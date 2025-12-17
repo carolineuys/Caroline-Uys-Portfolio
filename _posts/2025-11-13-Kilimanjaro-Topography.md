@@ -16,7 +16,7 @@ This is the final, printed design:
 
 11/20/2025
 After successfully printing out the mountains, our next step was to create a toolpath in Aspire that we are going to use with the CNC machine to mill the mountains into wood blocks. This is the workflow for creating the toolpath in Aspire:
-Phase 1: Job Setup & STL Import 
+## Phase 1: Job Setup & STL Import 
 1. This phase is about preparing your workspace and bringing in your 3D model.
 2. Create New File: Open Aspire.
   - Define Material:
@@ -30,7 +30,7 @@ Phase 1: Job Setup & STL Import
 4. Set Model Resolution:You can set the resolution to High or Very High for best 3D       quality, but the software will run slower. It is okay to leave the resolution at       Standard (fastest).
 5. Click OK.
 
-Import 3D Model:
+## Import 3D Model:
 Go to the Modeling tab (the one with the blue/green shapes).
 Click the "Import a Component or 3D Model" icon (looks like a folder with a blue arrow).
 Select your .stl file.
@@ -82,7 +82,6 @@ the smooth, detailed final surface.
 Click the 3D Finishing Toolpath icon.  (Your boundary vector should still be selected).
 Tool: The Material needs to be set to Hardwood. Select a small ⅛” Ball Nose bit. The smaller the bit, the more detail you get, but the longer it takes.This is set to Tool Number 6 for the ATC. 
 Machining Limit Boundary: Again, select Model Boundary.
-Strategy:
 Raster: A good, all-around strategy. Set the Raster Angle (e.g., 0 degrees) to go back and forth along the X-axis.
 Offset: Good for models that are circular or oval.
 Name your toolpath (e.g., "3D Finish - 0.125 Ballnose") and click Calculate.
@@ -112,3 +111,8 @@ Check Toolpaths: Select "3D Rough," then select "3D Finish", and then select “
 Choose your Machine -> Carvera Desktop CNC Machine.
 Choose your Post-Processor( the "driver" for your Carvera ATC CNC machine) → Carvera ATC (mm) (*cnc) -> Click Save Toolpath(s). This will save the .gcode  as a .cnc Makera Carvera file to the computer.
 You will now have the .gcode (or .nc, etc.) file to run at your CNC machine, as a file that will automatically run each toolpath one after another.
+
+12/03-05
+These past couple of days I have been creating the toolpaths for a cnc machine in Aspire for my Kilimanjaro topography. I had to make three different toolpaths for this design: profile, roughing, and finishing. Roughing is to carve out the majority of the wood and it uses the .8mm corn bit, finishing is for making the design more detailed and is used with a .2mm ball bit, and the profile cut is the final step which is to cut all the way around the design and also uses a .8mm corn bit. 
+
+12/08
