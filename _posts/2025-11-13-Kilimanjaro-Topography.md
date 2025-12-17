@@ -8,13 +8,13 @@ tags:
   - update
 ---
 
-11/13/2025
+# 11/13/2025
 Today we printed out 3D mountains that we chose on the website terrain2stl. I chose Mount Kilimanjaro in Tanzania because it is mentioned in a song I really like: Africa by Toto. The coordinates of Mount Kilimanjaro are 3.0674° S, 37.3556° E, but to position the box that determined what would be converted to an STL, I just dragged it over to the moutain's location on the map. The way that the website works is that you select a certain area of land by placing the red box over it, then it takes the topography of that land and converts into an STL file that has the same proportions as real life. The dimensions of the print were 63.5mm x 88.90mm x 25.4mm which I was able to obtain by changing the scaling factors in Bambu. This is what the design looked like in Bambu before printing:
 <img width="1083" height="888" alt="Screenshot 2025-11-13 103927" src="https://github.com/user-attachments/assets/95d88d68-61fd-41a0-bfad-209e596bec62" />
 This is the final, printed design:
 ![mountain topography](https://github.com/user-attachments/assets/3a1a7e8b-dc64-404e-b272-d01b8b831dbb)
 
-11/20/2025
+# 11/20/2025
 After successfully printing out the mountains, our next step was to create a toolpath in Aspire that we are going to use with the CNC machine to mill the mountains into wood blocks. This is the workflow for creating the toolpath in Aspire:
 ## Phase 1: Job Setup & STL Import 
 1. This phase is about preparing your workspace and bringing in your 3D model.
@@ -112,11 +112,11 @@ Choose your Machine -> Carvera Desktop CNC Machine.
 Choose your Post-Processor( the "driver" for your Carvera ATC CNC machine) → Carvera ATC (mm) (*cnc) -> Click Save Toolpath(s). This will save the .gcode  as a .cnc Makera Carvera file to the computer.
 You will now have the .gcode (or .nc, etc.) file to run at your CNC machine, as a file that will automatically run each toolpath one after another.
 
-12/03-05
+# 12/03-05
 These past couple of days I have been creating the toolpaths for a cnc machine in Aspire for my Kilimanjaro topography. I had to make three different toolpaths for this design: profile, roughing, and finishing. Roughing is to carve out the majority of the wood and it uses the .8mm corn bit, finishing is for making the design more detailed and is used with a .2mm ball bit, and the profile cut is the final step which is to cut all the way around the design and also uses a .8mm corn bit. I exported the toolpaths from Aspire as a single .cnc file so that it can be put into MakeraCam when it is exported. You can download my file here: 
 This is a picture of what my toolpaths looked like:
 
-12/08
+# 12/08
 Today I milled the topography map on wood by first importing my .cnc file to MakeraCam and then homing the device, offset the bottom left corner of the coordinate axes by 6mm each and then I ran the design. 
 Here's a top and side view of the final piece:
 ![kilfromtop](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/kilfromtop.jpg)
