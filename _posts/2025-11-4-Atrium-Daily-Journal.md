@@ -7,10 +7,16 @@ date: 2025-11-4
 tags: 
   - update
 ---
+All Projects: [FABLab Rehab](https://karlinsmith08.github.io/FABLabRehab_Atrium_Health/)
+
+Learn more about our projects with Atrium Health: [Charlotte Latin Kicks Off Biomedical Internship Program](https://www.charlottelatin.org/about/school-news/news-details/~board/news/post/charlotte-latin-kicks-off-biomedical-internship-program)
+
+For Daily Updates on All Projects: [Daily Journal](https://scarletteblack.github.io/Scarlett-Black-Honors-Engineering-Portfolio/2025-11-12-daily-journal.html)
+---
 Working with Atrium Health Rehabilitation Center, Scarlett Black and I are designing stable and affordable mounts that patients can use to play video games. While playing video games may seem like a minor part of recovery, the impact it has on patients is profound. Having a source of entertainment that patients are in control of gives them a sense of normalcy and independence, which can be difficult to find during the recovery process. In addition, video games provide a fun and engaging escape for patients to enjoy.
 
 When we first met with Atrium Rehab, we saw that the mounts currently being used can cost patients upwards of $300 each. Since many patients require multiple mounts, this expense is often unjustifiable for families. The hospital also has a limited number of mounts available, and once patients return home, they no longer have access to them unless they purchase their own. Scarlett and I’s goal is to have a mount ready for patients to use by late January.
-
+---
 # These are some of our key design considerations:
 1. Stability
 - During gameplay, the mounts will be pushed against repeatedly and cannot move, or else it will impact the patient's ability to successfully use them
