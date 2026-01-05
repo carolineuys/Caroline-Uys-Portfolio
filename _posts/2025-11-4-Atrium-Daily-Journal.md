@@ -19,6 +19,75 @@ Working with Atrium Health Rehabilitation Center, Scarlett Black and I are desig
 When we first met with Atrium Rehab, we saw that the mounts currently being used can cost patients upwards of $300 each. Since many patients require multiple mounts, this expense is often unjustifiable for families. The hospital also has a limited number of mounts available, and once patients return home, they no longer have access to them unless they purchase their own. Scarlett and I’s goal is to have a mount ready for patients to use by late January.
 
 ---
+### Materials, Expenses, and Tools
+
+**Materials** 
+
+So far, the only material we have used is PLA. We will continue to use PLA until we finalize our prototype. Once we have a final design, we will shift to a more durable and stronger material. Currently, PLA makes the most sense for our prototypes because it is inexpensive and there is easy access to it in the lab. 
+
+Possible materials: Aluminum, Acetal, and Reinforced Plastic
+* We are still looking into the pros, cons, and logistics of all of these materials.
+
+
+**Expenses** 
+
+The cost of PLA thus far is $6.30
+
+
+**Tools**
+
+For this particular project, just the 3D printers are necessary. We are aiming to keep these designs simple due to the Atrium Rehab Center only having access to a 3D printer and other limited equipment. We will potentially outsource the mounts to be made once we have finalized the design.
+
+---
+### Moving Forward 
+
+* Finding a more sturdy material to print with. Find a balance of stability, cost, and weight
+* Redesigning the clamps so they fit onto tables and wheelchairs (rounded and flat surfaces)
+* Design mount attachments focusing mainly on the ball joint as the connecting point
+* Tightening the joints between the arms, making them more secure
+* Making the arms snap into place more easily
+
+---
+
+### Conceptual Reference 
+This phone mount by [Hardware Lab (Creator on Printables)](https://www.printables.com/@Gdoniu93_219588) served as the inspiration for our initial design. We chose to base our project on this because the locking joints and mobility of the mount align with the mount that Caroline and I are trying to create. We knew that the main points that would not work for our project are the top phone holder parts and the base of the mount. 
+
+[Printables Prototype - Actual Mount Design](https://www.printables.com/model/1114209-articulated-arm/files)
+
+Under the title **Model Files**, there are downloadable links to every piece used thus far. Currently, we are editing and redesigning certain pieces, but listed below are all of the pieces we have printed and the quantity.
+* Parts 1-6, Part 7 29mm, Parts 8-10, Two of Parts 11-15, Part 16 180mm, Parts 17-20, Part 21 180mm, Parts 22-27, and Part 32
+
+
+### Design Aspects: 
+
+[**Video of Current Mount**](https://drive.google.com/file/d/1tTBhlx15WmFcmSOWZiEZaXROaMfHbyK7/view?usp=share_link)
+
+#### Clamp:  
+
+![IMG_2453](https://github.com/user-attachments/assets/b2e8f0ec-7eee-442c-ba8a-0da4d95b23b9)
+
+The design above is not our design. This clamp came from the printables mount linked above. When testing the clamp, the bottom would bend when tightened and it would slide easily. 
+
+<img alt="Screenshot 2025-12-19 at 2 27 21 AM" src="https://github.com/user-attachments/assets/6d059b9f-a4fc-48cd-aa13-b2d10a105e16" />
+
+This is a photo of the current clamp that Atrium Health Rehab Center uses.
+
+As we redesign the clamp, we are working to make it more sturdy and to fit on more surfaces. Additionally, we will add and grip to the inside to prevent sliding. 
+
+#### Joints: 
+
+![IMG_4416](https://github.com/user-attachments/assets/b81a0a1d-a4cd-4e00-8cbf-7284fbdc90d9)
+
+This was the first ratchet joint that we looked at using. It did not move easily or lock easily. 
+
+
+![IMG_2452](https://github.com/user-attachments/assets/b92367d9-8bcb-484f-a5bc-587aceafd07d)
+
+
+These are the current locking ratchet joints that we are using. The issue is that it is incredibly difficult to get the arms to connect to the joints. There were several arms that we broke in trying to slide them into place. Additionally, the joints are easy to move and lock easily, but the lock is not incredibly strong. 
+
+---
+
 # These are some of our key design considerations:
 1. Stability
 - During gameplay, the mounts will be pushed against repeatedly and cannot move, or else it will impact the patient's ability to successfully use them
@@ -29,6 +98,56 @@ When we first met with Atrium Rehab, we saw that the mounts currently being used
 - The length of the mounts needs to be customizable in terms of the mount coming from behind the patients or the side. This helps accommodate patients who may feel crowded by too many pieces of equipment in front of them
 3. Mobility
 - As mentioned before, the length needs to be adjustable for individual patients, but the mount needs to be flexible and easy to change the angles of attachments
+
+---
+### Moving Forward 
+
+* Finding a more sturdy material to print with. Find a balance of stability, cost, and weight
+* Redesigning the clamps so they fit onto tables and wheelchairs (rounded and flat surfaces)
+* Design mount attachments focusing mainly on the ball joint as the connecting point
+* Tightening the joints between the arms, making them more secure
+* Making the arms snap into place more easily
+
+---
+
+### Conceptual Reference 
+This phone mount by [Hardware Lab (Creator on Printables)](https://www.printables.com/@Gdoniu93_219588) served as the inspiration for our initial design. We chose to base our project on this because the locking joints and mobility of the mount align with the mount that Caroline and I are trying to create. We knew that the main points that would not work for our project are the top phone holder parts and the base of the mount. 
+
+[Printables Prototype - Actual Mount Design](https://www.printables.com/model/1114209-articulated-arm/files)
+
+Under the title **Model Files**, there are downloadable links to every piece used thus far. Currently, we are editing and redesigning certain pieces, but listed below are all of the pieces we have printed and the quantity.
+* Parts 1-6, Part 7 29mm, Parts 8-10, Two of Parts 11-15, Part 16 180mm, Parts 17-20, Part 21 180mm, Parts 22-27, and Part 32
+
+
+### Design Aspects: 
+
+[**Video of Current Mount**](https://drive.google.com/file/d/1tTBhlx15WmFcmSOWZiEZaXROaMfHbyK7/view?usp=share_link)
+
+#### Clamp:  
+
+![IMG_2453](https://github.com/user-attachments/assets/b2e8f0ec-7eee-442c-ba8a-0da4d95b23b9)
+
+The design above is not our design. This clamp came from the printables mount linked above. When testing the clamp, the bottom would bend when tightened and it would slide easily. 
+
+<img alt="Screenshot 2025-12-19 at 2 27 21 AM" src="https://github.com/user-attachments/assets/6d059b9f-a4fc-48cd-aa13-b2d10a105e16" />
+
+This is a photo of the current clamp that Atrium Health Rehab Center uses.
+
+As we redesign the clamp, we are working to make it more sturdy and to fit on more surfaces. Additionally, we will add and grip to the inside to prevent sliding. 
+
+#### Joints: 
+
+![IMG_4416](https://github.com/user-attachments/assets/b81a0a1d-a4cd-4e00-8cbf-7284fbdc90d9)
+
+This was the first ratchet joint that we looked at using. It did not move easily or lock easily. 
+
+
+![IMG_2452](https://github.com/user-attachments/assets/b92367d9-8bcb-484f-a5bc-587aceafd07d)
+
+
+These are the current locking ratchet joints that we are using. The issue is that it is incredibly difficult to get the arms to connect to the joints. There were several arms that we broke in trying to slide them into place. Additionally, the joints are easy to move and lock easily, but the lock is not incredibly strong. 
+
+---
 
 # 10/30
 Today we had our first meeting with the rest of the people that will be helping with the Fablab Rehab collaboration with Pearl. The goal of the meeting was to communicate to them Scarlett, Karlin, Marisol, and I’s positions of leadership as well as their roles coming forward. To determine their roles, we sent out a google form where they could submit however much experience they have with basic things like 3D printing, laser cutting, soldering, up to more advanced tasks like milling and using Fusion360 and divided them into four groups: no experience, novice, intermediate, and advanced. We are going to make the groups so that people can do tasks that they are good at and for the people who have little to no experience, we will host training sessions before and after school to teach them engineering skills. This project involves a lot of printing out designs and making small changes to designs in Fusion 360, which would take entirely too long if it was just the four leaders working on the project, so it will cut down a lot of time and increase our efficiency to have these underclassmen helping.
