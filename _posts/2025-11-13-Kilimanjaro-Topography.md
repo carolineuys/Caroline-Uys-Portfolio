@@ -14,6 +14,7 @@ Today we printed out 3D mountains that we chose on the website terrain2stl. I ch
 This is the final, printed design:
 ![mountain topography](https://github.com/user-attachments/assets/3a1a7e8b-dc64-404e-b272-d01b8b831dbb)
 You can download the 3D printing file here: [Download 3D print file](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Kilimanjaro/UYSterrain-90887%20(1).3mf)
+This is the aspire file: [Download UYSterrain-90887 (1).stl.zip](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Kilimanjaro/UYSterrain-90887%20(1).stl.zip)
 
 # 11/20/2025
 After successfully printing out the mountains, our next step was to create a toolpath in Aspire that we are going to use with the CNC machine to mill the mountains into wood blocks. This is the workflow for creating the toolpath in Aspire:
