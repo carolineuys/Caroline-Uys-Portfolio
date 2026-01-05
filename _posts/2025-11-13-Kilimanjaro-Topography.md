@@ -32,7 +32,7 @@ After successfully printing out the mountains, our next step was to create a too
 4. Set Model Resolution:You can set the resolution to High or Very High for best 3D       quality, but the software will run slower. It is okay to leave the resolution at       Standard (fastest).
 5. Click OK.
 
-## Import 3D Model:
+#Import 3D Model:
 1. Go to the Modeling tab (the one with the blue/green shapes).
 2. Click the "Import a Component or 3D Model" icon (looks like a folder with a blue arrow).
 3. Select your .stl file.
