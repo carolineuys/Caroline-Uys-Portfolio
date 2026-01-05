@@ -7,6 +7,20 @@ date: 2025-11-4
 tags: 
   - update
 ---
+Working with Atrium Health Rehabilitation Center, Scarlett Black and I are designing stable and affordable mounts that patients can use to play video games. While playing video games may seem like a minor part of recovery, the impact it has on patients is profound. Having a source of entertainment that patients are in control of gives them a sense of normalcy and independence, which can be difficult to find during the recovery process. In addition, video games provide a fun and engaging escape for patients to enjoy.
+
+When we first met with Atrium Rehab, we saw that the mounts currently being used can cost patients upwards of $300 each. Since many patients require multiple mounts, this expense is often unjustifiable for families. The hospital also has a limited number of mounts available, and once patients return home, they no longer have access to them unless they purchase their own. Scarlett and I’s goal is to have a mount ready for patients to use by late January.
+
+# These are some of our key design considerations:
+1. Stability
+During gameplay, the mounts will be pushed against repeatedly and cannot move, or else it will impact the patient's ability to successfully use them
+Many patients deal with involuntary movements, where it is possible that the mount would get hit and in the case of this occurring, the mounts must be sturdy enough to remain unmoved
+2. Customizations
+As the patients are using their heads to press the buttons on the mounts, the mounts need to be right next to their heads, which can be very different heights for different people
+Many patients have other assistive technology being used at all times or IVs, catheters, and critical medical devices. The mounts need to clamp onto tables (flat surfaces) or wheelchairs (round surfaces) in order to accommodate patients' other necessities
+The length of the mounts needs to be customizable in terms of the mount coming from behind the patients or the side. This helps accommodate patients who may feel crowded by too many pieces of equipment in front of them
+3. Mobility
+As mentioned before, the length needs to be adjustable for individual patients, but the mount needs to be flexible and easy to change the angles of attachments
 
 # 10/30
 Today we had our first meeting with the rest of the people that will be helping with the Fablab Rehab collaboration with Pearl. The goal of the meeting was to communicate to them Scarlett, Karlin, Marisol, and I’s positions of leadership as well as their roles coming forward. To determine their roles, we sent out a google form where they could submit however much experience they have with basic things like 3D printing, laser cutting, soldering, up to more advanced tasks like milling and using Fusion360 and divided them into four groups: no experience, novice, intermediate, and advanced. We are going to make the groups so that people can do tasks that they are good at and for the people who have little to no experience, we will host training sessions before and after school to teach them engineering skills. This project involves a lot of printing out designs and making small changes to designs in Fusion 360, which would take entirely too long if it was just the four leaders working on the project, so it will cut down a lot of time and increase our efficiency to have these underclassmen helping.
