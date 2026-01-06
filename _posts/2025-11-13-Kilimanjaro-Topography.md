@@ -113,6 +113,9 @@ the smooth, detailed final surface.
 11. Choose your Machine -> Carvera Desktop CNC Machine.
 12. Choose your Post-Processor( the "driver" for your Carvera ATC CNC machine) → Carvera ATC (mm) (*cnc) -> Click Save Toolpath(s). This will save the .gcode  as a .cnc Makera Carvera file to the computer.
 13. You will now have the .gcode (or .nc, etc.) file to run at your CNC machine, as a file that will automatically run each toolpath one after another.
+<img alt="Screenshot 2025-12-19 at 1 00 00 AM" src="https://github.com/user-attachments/assets/60d5d363-f00d-47c4-92ad-80b0211627c2" />
+
+<img alt="Screenshot 2025-12-19 at 12 59 36 AM" src="https://github.com/user-attachments/assets/746065af-faf5-4b71-8de9-ed8ac6535512" />
 
 # 12/03-05
 These past couple of days I have been creating the toolpaths for a cnc machine in Aspire for my Kilimanjaro topography. I had to make three different toolpaths for this design: profile, roughing, and finishing. Roughing is to carve out the majority of the wood and it uses the .8mm corn bit, finishing is for making the design more detailed and is used with a .2mm ball bit, and the profile cut is the final step which is to cut all the way around the design and also uses a .8mm corn bit. I exported the toolpaths from Aspire as a single .cnc file so that it can be put into MakeraCam when it is exported. You can download my file here: [Download toolpaths](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Kilimanjaro/UYSterrain-90887toolpaths.cnc.zip)
@@ -123,3 +126,11 @@ Today I milled the topography map on wood by first importing my .cnc file to Mak
 Here's a top and side view of the final piece:
 ![kilfromtop](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/kilfromtop.jpg)
 ![kilfromside](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/kilfromside.jpg)
+
+---
+# Issues Encountered
+An issue I had during this project was that the aspire on my computer did not have the right tools so I could not export it as a .cnc file. I just went to a different computer that was working, but I had to redo all of the toolpaths for my design. Later on, there was an issue with the where the types of file that were being put into the MakeraCam software were not in the correct format so we had to change them to gcode.nc files.
+
+---
+# Summary
+For this project, I explored how digital terrain data can be translated into physical objects by creating a topography model of Mount Kilimanjaro. I began by using terrain2stl to generate an STL file of the mountain and adjusted the scale in Bambu Studio to produce a 3D print. I then transitioned the same model into a CNC workflow by importing it into Aspire, where I created roughing, finishing, and profile toolpaths for milling the design into wood. Throughout the process, I encountered and worked through several software and file-format challenges, which helped me better understand CNC workflows and toolpath setup. The final result was a detailed wooden topographic map that reflects both the terrain of Mount Kilimanjaro and my growth in combining digital modeling with physical fabrication.
