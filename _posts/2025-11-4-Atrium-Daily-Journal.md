@@ -219,3 +219,10 @@ Task analysis
 16. Meet with the people at Atrium to show progress and ask for feedback
 17. Implement feedback into the design
 18. Repeat steps 12-17 as needed. 
+
+# 01/08
+The current adaptable clamp that they use at Atrium has rubber grips so that it has more traction on whatever surface it’s attached to, but if we are going to use 3D printers to make the clamp, then that would be really slippery and move around a lot. In order to get rid of this problem, we can replicate their current clamp by using a rubber grip with adhesive on the back to put inside the clamp. I found a roll of grip that would be useful for this project. Below is the link, cost, dimensions, and description.
+Grip for mount - https://www.worant.com/product-p-720922.html
+Cost: $6.49
+Dimensions: 0.8in x 16ft
+Description: Ultra thin, strong adhesive, anti-slip, waterproof, heat resistant, and wear-resistant cushion pad
