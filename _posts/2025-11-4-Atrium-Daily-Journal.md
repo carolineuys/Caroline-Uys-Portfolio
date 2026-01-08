@@ -191,3 +191,31 @@ These are all of the files for the clamp design that we've been using:
 [Download articulated-arm-model_files.zip](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Atrium/articulated-arm-model_files.zip)
 
 My goal is to create a clamp in Fusion360 that looks like the clamp that they are using because it is adjustable to wheelchairs and tables, but their current problem is that it is expensive and they keep losing the piece that makes it fit a table. To fix this, I am going to add a little part on the clamp where the piece that gets lost can connect to the larger part of the clamp with a string.
+
+# 01/07
+Task analysis
+1. Design Specs Creation with your team what about tolerances
+2. Discuss with with the client (hospital)
+3. Find a material I should put on the inside of the clamp to avoid scratching tables
+  - Most likely a thin rubber so it is soft, but still has traction
+4. Create update of BOM materials
+5. Place order
+6. Find dimensions of the adaptable clamp
+7. Replicate in fusion 360
+  - Will have to be movable
+  - Make modifications based on what the nurses need
+    - Place to attach the adaptable piece so it doesn’t get lost
+    - Print out more of just those adaptable pieces to replace the ones they have already lost
+8. Measure  the current mount
+9. Recreate in Fusion 360
+  - Needs to be interactive
+10. Adapt the design to the current mount design we are using
+  - There will need to be a part that the mount can be screwed into and it will need to have the correct threading to match the screw on the mount
+11. Run simulations in Fusion360 
+12. Do test prints to troubleshoot
+13. Test the printed clamps with the mount
+14. Based on those results I will make changes where necessary
+15. Repeat steps 12-14 as needed.
+16. Meet with the people at Atrium to show progress and ask for feedback
+17. Implement feedback into the design
+18. Repeat steps 12-17 as needed. 
