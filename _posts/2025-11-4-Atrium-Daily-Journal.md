@@ -192,6 +192,9 @@ These are all of the files for the clamp design that we've been using:
 
 My goal is to create a clamp in Fusion360 that looks like the clamp that they are using because it is adjustable to wheelchairs and tables, but their current problem is that it is expensive and they keep losing the piece that makes it fit a table. To fix this, I am going to add a little part on the clamp where the piece that gets lost can connect to the larger part of the clamp with a string.
 
+# 01/06
+The current mount being used at the hospital can range from $345.00 to $485.00 and the clamp is included in the purchase. An advantage to creating this mount separate from the actual mount is that we can produce extra and the patients will not need to purchase an entire mount if they need just a clamp. [Open current mount](https://www.inclusivetlc.com/shop/clamp-mount/)
+
 # 01/07
 Task analysis
 1. Design Specs Creation with your team what about tolerances
