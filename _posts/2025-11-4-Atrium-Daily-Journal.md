@@ -232,3 +232,11 @@ Description: Ultra thin, strong adhesive, anti-slip, waterproof, heat resistant,
 
 # 01/09
 I created a BoM for the adaptable mount today so that I can order the roll of grip tape as well as get an estimated cost of what the clamp will be. I don’t know yet how much the PLA will cost per clamp since I haven’t designed it yet, but once I do that I can get the total cost. This is the link to the BoM that I will be updating throughout this project: [Open BoM](https://docs.google.com/spreadsheets/d/1dcniH_9TzyRWijwt_DEvlw9Q0BdhIiyRdjANTtZ6UAU/edit?gid=0#gid=0)
+I’m unable to find the dimensions or a blueprint of the clamp anywhere, but I did come across this site [Table Mounts for Switches](https://rehadapt.com/table-mounts-for-switches/) that has clear pictures of what the clamp looks like and a short description of some of its features: “Light 3D table mounts with one, two or three tubes each equipped with QuickShift joints, a SuperClamp and either a Universal Device Socket (UDS) or a Spigot Link System (SLS).” From this point on I will be able to use that clamp as a reference and design the parts that are still necessary by myself. This specific clamp has four versions that can be attached to different kinds of mount types, but since we only have one design for the mount, only one type of clamp will be needed.
+![clampfeatures.png](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/clampfeatures.png)
+Features I am going to keep:
+1. The tightening mechanism on the backside that screws the two jaws closer
+2. Rubber grips
+3. Removable wedge for flat surfaces
+4. Attachment for mount arms
+
