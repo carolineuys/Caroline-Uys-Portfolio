@@ -226,3 +226,6 @@ Grip for mount - https://www.worant.com/product-p-720922.html
 Cost: $6.49
 Dimensions: 0.8in x 16ft
 Description: Ultra thin, strong adhesive, anti-slip, waterproof, heat resistant, and wear-resistant cushion pad
+
+# 01/09
+I created a BoM for the adaptable mount today so that I can order the roll of grip tape as well as get an estimated cost of what the clamp will be. I don’t know yet how much the PLA will cost per clamp since I haven’t designed it yet, but once I do that I can get the total cost. This is the link to the BoM that I will be updating throughout this project: [Open BoM](https://docs.google.com/spreadsheets/d/1dcniH_9TzyRWijwt_DEvlw9Q0BdhIiyRdjANTtZ6UAU/edit?gid=0#gid=0)
