@@ -241,3 +241,14 @@ Features I am going to keep:
 3. Removable wedge for flat surfaces
 4. Attachment for mount arms
 
+# 01/12
+I started designing the clamp today in Fusion360. I am not concerned with the dimensions currently because I am going to get a clamp from Atrium to use as a reference since I can not find dimensions anywhere online. I focused on the top half of the clamp where the adaptable piece is to better understand how it attaches into the clamp. 
+![clampv1.png](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/images/clampv1.png)
+
+# 01/13
+Today, I continued to research materials for the clamp and construct the clamp in Fusion 360. I also spoke with Scarlett about her progress with the mount attachments while I updated her on my own. So far she has printed out an intial design for the plate and making changes based on how it worked. One problem she has is while she was designing, she did not take into account that the ball joint would need another screw between the ball and the plate so there was no way to attach it to the mount. I showed her my current design and showed her my task analysis sheet for my next steps.
+
+# 01/15
+I searched more online for the dimensions of the clamp before emailing Mrs. Smith, but after I still couldn’t find them I emailed her asking if I could come by the rehab center to borrow a clamp. This will help me to progress much faster with the design because as of right now I have been designing the clamp without any thought about the sizes of the parts.
+
+
