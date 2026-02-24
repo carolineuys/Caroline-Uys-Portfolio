@@ -270,6 +270,7 @@ Over the course of these two days, I concentrated on modeling the elongated top 
 
 # 02/13-17
 We had a long break during these days so I finished the entire top of the clamp. I finished the rest of the slot where it will attach to the bottom part and then I used the Cut extrude tool to copy it onto the other side. To bring back the divider in the middle, I created a new sketch on the bottom and made a rectangle with the dimensions of the current divider. To create the triangle where the adaptable piece can go in, I created a triangle on the side and then used Cut extrude to carve out the triangle shape throughout the whole top. Then I created a sketch on the top and added the holes. The two holes that are to the left and the right of the center hole have threads that go all the way through to wear the adaptable piece fits in. The other two that are above and below the center hole also have threads, but do not go all the way through the clamp.
+
 <img width="714" height="555" alt="clamptopv31" src="https://github.com/user-attachments/assets/17e66d6d-e092-47b9-bc8f-215b6a0dfdb6" />
 <img width="616" height="562" alt="clamptopv32" src="https://github.com/user-attachments/assets/c2fb4de0-81d6-442b-a0fe-dbecc6b7c40a" />
 <img width="577" height="428" alt="clamptopv33" src="https://github.com/user-attachments/assets/7382b5a8-dac5-4141-841e-475186a0cf15" />
