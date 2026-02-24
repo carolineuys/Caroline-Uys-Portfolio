@@ -258,6 +258,7 @@ tom.dubick@charlottelatin.org
 
 # 02/09
 I started designing the top component of the clamp today using the measurements I’ve been taking. I made a rough outline of the shape of the clamp and created the hole at the top where the mounts get inserted. To create the cross section I used two rectangles laid over one another and I used the dimension tool to align and center them.
+
 <img width="573" height="564" alt="clamptopv1" src="https://github.com/user-attachments/assets/dfcf5194-60b6-4b9d-84dc-93d8449582de" />
 
 # 02/10
@@ -265,6 +266,7 @@ No class today.
 
 # 02/11-12
 Over the course of these two days, I concentrated on modeling the elongated top component of the clamp assembly in Fusion. I created a 2D sketch using the outward facing side of the elongated section as a reference plane and creating the two holes. I used the dimension tool to ensure that the holes were lined up symmetrically. Then, I started designing one of the attachment slots where the top and bottom clamp bodies will fit together. This required multiple offset planes and offset faces to accurately capture the geometry of the part. Because the component includes varying thicknesses and recessed regions, I relied on repeated sketches and extrude features (both Join and Cut operations) to build up the layered structure while maintaining parametric control. This component was particularly challenging due to the number of offset surfaces and the need to reference existing geometry without breaking the design timeline. I used projected geometry to maintain alignment between sketches and carefully managed feature dependencies to avoid sketch failures during edits. 
+
 <img width="576" height="473" alt="clamptopv21" src="https://github.com/user-attachments/assets/b9d9c444-1ed4-46d8-9c30-627f4a6e4a41" />
 <img width="557" height="439" alt="clamptopv22" src="https://github.com/user-attachments/assets/12c6ee5e-7c89-4ece-b658-16ceb5999d00" />
 
@@ -274,6 +276,7 @@ We had a long break during these days so I finished the entire top of the clamp.
 <img width="714" height="555" alt="clamptopv31" src="https://github.com/user-attachments/assets/17e66d6d-e092-47b9-bc8f-215b6a0dfdb6" />
 <img width="616" height="562" alt="clamptopv32" src="https://github.com/user-attachments/assets/c2fb4de0-81d6-442b-a0fe-dbecc6b7c40a" />
 <img width="577" height="428" alt="clamptopv33" src="https://github.com/user-attachments/assets/7382b5a8-dac5-4141-841e-475186a0cf15" />
+
 I also designed the adaptable piece that fits into the larger clamp component. Most of the dimensions were referenced from the clamp top design rather than the adaptable piece itself, since the insert needed to match the geometry I had already created. 
 The most challenging part was keeping everything centered without overconstraining the sketches. I had to carefully apply constraints so the geometry stayed aligned while still allowing flexibility for adjustments. I also ran into some difficulty modeling the middle section and creating extrude cuts from sketches that were not on the same plane to remove material from the larger triangular body. To manage this, I worked step by step through each sketch and feature so that if something needed to be changed, it wouldn’t affect the entire model.
 
