@@ -251,4 +251,26 @@ Today, I continued to research materials for the clamp and construct the clamp i
 # 01/15
 I searched more online for the dimensions of the clamp before emailing Mrs. Smith, but after I still couldn’t find them I emailed her asking if I could come by the rehab center to borrow a clamp. This will help me to progress much faster with the design because as of right now I have been designing the clamp without any thought about the sizes of the parts.
 
+# 01/16 
+I ordered the clamp today with the mount from [enabling devices](https://enablingdevices.com/product/gooseneck-mounting-system/) so that I can just have my own here to take measurements from. For the rest of class I helped send emails to the underclassmen who are helping us with designing and printing the devices. 
+704-609-3773
+tom.dubick@charlottelatin.org
+
+# 02/09
+I started designing the top component of the clamp today using the measurements I’ve been taking. I made a rough outline of the shape of the clamp and created the hole at the top where the mounts get inserted. To create the cross section I used two rectangles laid over one another and I used the dimension tool to align and center them.
+<img width="573" height="564" alt="clamptopv1" src="https://github.com/user-attachments/assets/dfcf5194-60b6-4b9d-84dc-93d8449582de" />
+
+# 02/10
+No class today.
+
+# 02/11-12
+Over the course of these two days, I concentrated on modeling the elongated top component of the clamp assembly in Fusion. I created a 2D sketch using the outward facing side of the elongated section as a reference plane and creating the two holes. I used the dimension tool to ensure that the holes were lined up symmetrically. Then, I started designing one of the attachment slots where the top and bottom clamp bodies will fit together. This required multiple offset planes and offset faces to accurately capture the geometry of the part. Because the component includes varying thicknesses and recessed regions, I relied on repeated sketches and extrude features (both Join and Cut operations) to build up the layered structure while maintaining parametric control. This component was particularly challenging due to the number of offset surfaces and the need to reference existing geometry without breaking the design timeline. I used projected geometry to maintain alignment between sketches and carefully managed feature dependencies to avoid sketch failures during edits. 
+<img width="576" height="473" alt="clamptopv21" src="https://github.com/user-attachments/assets/b9d9c444-1ed4-46d8-9c30-627f4a6e4a41" />
+<img width="557" height="439" alt="clamptopv22" src="https://github.com/user-attachments/assets/12c6ee5e-7c89-4ece-b658-16ceb5999d00" />
+
+# 02/13-17
+We had a long break during these days so I finished the entire top of the clamp. I finished the rest of the slot where it will attach to the bottom part and then I used the Cut extrude tool to copy it onto the other side. To bring back the divider in the middle, I created a new sketch on the bottom and made a rectangle with the dimensions of the current divider. To create the triangle where the adaptable piece can go in, I created a triangle on the side and then used Cut extrude to carve out the triangle shape throughout the whole top. Then I created a sketch on the top and added the holes. The two holes that are to the left and the right of the center hole have threads that go all the way through to wear the adaptable piece fits in. The other two that are above and below the center hole also have threads, but do not go all the way through the clamp.
+<img width="714" height="555" alt="clamptopv31" src="https://github.com/user-attachments/assets/17e66d6d-e092-47b9-bc8f-215b6a0dfdb6" />
+<img width="616" height="562" alt="clamptopv32" src="https://github.com/user-attachments/assets/c2fb4de0-81d6-442b-a0fe-dbecc6b7c40a" />
+<img width="577" height="428" alt="clamptopv33" src="https://github.com/user-attachments/assets/7382b5a8-dac5-4141-841e-475186a0cf15" />
 
