@@ -1,4 +1,4 @@
-<img width="924" height="572" alt="clampbottomv1" src="https://github.com/user-attachments/assets/a4a33766-9460-4ef0-8b66-6edcdc979d80" />---
+---
 title: " Atrium Daily Journal"
 categories: 
   - blog
