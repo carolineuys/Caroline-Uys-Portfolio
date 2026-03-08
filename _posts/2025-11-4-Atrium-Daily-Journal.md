@@ -6,6 +6,7 @@ categories:
 date: 2025-11-4
 tags: 
   - update
+  - capstone project
 ---
 All Projects: [FABLab Rehab](https://karlinsmith08.github.io/FABLabRehab_Atrium_Health/)
 
