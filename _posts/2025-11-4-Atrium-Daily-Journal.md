@@ -1,4 +1,4 @@
----
+<img width="924" height="572" alt="clampbottomv1" src="https://github.com/user-attachments/assets/a4a33766-9460-4ef0-8b66-6edcdc979d80" />---
 title: " Atrium Daily Journal"
 categories: 
   - blog
@@ -282,3 +282,49 @@ The most challenging part was keeping everything centered without overconstraini
 
 <img width="684" height="523" alt="adaptablepiecev1" src="https://github.com/user-attachments/assets/9616ba2d-3240-4acb-b73e-b86cdcb4428d" />
 
+# 02/18-24
+During this period of time I had a lot of trial and error with printing the two pieces because the adjustable piece did not fit into either the clamp top that I had replicated or the original because the midsection was too short. After adjusting the midsection it fits into the original clamp. After printing the top of the clamp I realized that I had make the holes where the adjustable piece should attack too small, so I had to go back into the fusion design to create larger ones. This was an easy fix as I just had to go back into the timeline and change the dimensions of a couple circles. I also enlarged some of the other parts where screws need to be inserted because they came out too small. A problem that I have been trying to solve is having the correct threading for the screws that are normally used with the clamp, as Fusion 360 does not always have the correct threading. After doing some research, I found that I can use heat-set threaded inserts which will melt the filament as I push them into the holes and then solidify inside the piece once it cools. This will be much better since threading can strip over time especially when the material is filament, so this will last longer and I can choose the correct threading instead of having to change the screws that are used as well.
+
+# 02/25
+I started the bottom part of the clamp today with a rough outline, just trying to get the general shape of the piece. I did not face any difficulties with doing this since the only functions I was using were creating rectangles/triangles and extruding faces. 
+<img width="924" height="572" alt="clampbottomv1" src="https://github.com/user-attachments/assets/0586a2be-5b3a-4504-9890-af8345768db9" />
+
+# 02/26
+No class
+
+# 02/27
+I added the two studs in the middle today and also created the space where the rubber grip tape will be inserted. One challenge I ran into during this part was creating the flat edges on the round studs so they would fit properly with the top piece of the clamp. I had to adjust the measurements several times and redo multiple extrusions and sketches to get everything to line up correctly.
+One thing that helped a lot during this process was being able to go back into the timeline and edit earlier sketches instead of starting over. To make sure both studs were mirror images of each other, I created an offset plane in the center of the piece and then used the mirror tool to duplicate the feature onto the other side.
+<img width="799" height="543" alt="clampbottomv2" src="https://github.com/user-attachments/assets/10f88ff0-5d68-416d-a173-5cb8c542d7d8" />
+
+# 02/30
+No class
+
+# 02/31
+In preparation for our meeting with Ms. Heather Smith tomorrow, Karlin, Scarlett, Marisol and I created a meeting agenda addressing the different questions and updates we had for her. These are the notes/topics I want to discuss with her:
+Done with the design, I just need to add in the inserts
+Show her the design and show her the inserts
+I also need to figure out the spring part
+Ask about how we want the mount insert to work because it isn’t something i can model in Fusion
+
+# 02/32
+Today we met with Ms. Smith. After showing her the completed design, I asked about the issue with the section where the mount is inserted into the clamp. She explained that it was not necessary to keep that feature in the design because it is mainly used for quickly moving a mount from one place to another, which is not something that is used regularly. She also suggested creating an alternative version of the design with a top that the modular hose can snap onto. To do this, I will create a new body in Fusion360 and model the shape of one of the modular hose segments. I will then integrate that piece into the existing design I have already created. Finally, we discussed the next steps for the project, which include installing the heat set threaded inserts into the design and finding a way to replicate the spring component of the clamp.
+
+# 02/33
+We watched presentations during class today.
+
+# 02/34
+I presented today and then watched others present.
+
+---
+
+# Final Reflection:
+Working on the Fablab Rehab collaboration with Atrium and the Pearl taught me a lot about how complex a real engineering project can be and how much coordination it requires. At the beginning of the project, a large focus was on organization and leadership. My role involved managing communication between our team and the hospital partners, which meant writing professional emails, scheduling meetings, and making sure everyone stayed updated on our progress. We also organized underclassmen into different experience groups so that they could contribute to the project while learning new engineering skills. This helped me realize that large projects cannot be completed by just a few people working independently because they require clear communication, collaboration, and delegation so that everyone can contribute efficiently.
+
+Through the design process, I realized how iterative engineering is because designing the clamp in Fusion 360 required many rounds of modeling, printing, testing, and revising. Often the first version of a part would not fit correctly or would need adjustments to dimensions, threading, or alignment. For example, several of my prints had to be redesigned because the adjustable insert did not fit properly or the holes for screws were too small. Instead of starting over each time, I learned how to use the design timeline in Fusion 360 to modify earlier sketches and features. I also had to research alternative solutions when something did not work as expected, such as using heat set threaded inserts instead of printing threads directly into the plastic. This process showed me that engineering is rarely about getting the design right the first time.
+
+Another important lesson from this project was the value of working with real people. Meeting with the team at Atrium helped guide many of our design decisions because they could explain how the devices are actually used by patients. For example, during one meeting we learned how important having a water bottle holder that can attach to a wheelchair mount is because some of the patients have issues with regulating blood pressure. This experience made me realize how many every day functions I never think about doing, but it is actually a priviledge to have the ability to do them.
+
+This project also helped me learn more about myself as an engineer and leader. I realized that I enjoy the challenge of solving design problems and figuring out how different components fit together. At the same time, I learned that patience and persistence are essential when working on a long-term project. Many parts of the clamp required multiple attempts before they worked correctly, and each mistake became an opportunity to improve the design. I also gained confidence in my ability to communicate professionally with collaborators and take responsibility for a key part of the project.
+
+If I were to continue this project, my next steps would focus on refining and validating the clamp design. I would complete the integration of the heat set threaded inserts and continue testing the printed clamp to ensure it is durable and stable when supporting the mount. I would also work on replicating the spring mechanism and exploring the alternative design that allows the modular hose to snap directly onto the clamp. After finalizing the design, I would want to test the clamp with the hospital staff and gather feedback from actual users. This would allow me to make final improvements and ensure that the design is reliable, affordable, and practical for clinical use.
