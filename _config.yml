@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Caroline Uys"
   avatar : "/assets/images/caroline.png"
-  bio    : "My name is Caroline Uys and I am a senior at Charlotte Latin School. I am currently 17 years old and I hope to study biomedical engineering in college. My interest in BME was sparked by my love for biology and engineering during my junior year in highschool. I am also really interested in neuroscience and neuroengineering because I think the brain is a field that lacks a lot of information. My year-long project for this class is a joint effort with other people in my class to help design and improve assistive technology devices for the patients in the Atrium Carolina's Rehabilitation Center (The Pearl) and can be found at this link: https://github.com/26wickhm/pearl"
+  bio    : "My name is Caroline Uys and I am a senior at Charlotte Latin School. I am currently 17 years old and I will be attending Boston University's College of Engineering in the fall of 2026 majoring in biomedical engineering. My interest in BME was sparked by my love for biology and engineering during my junior year in highschool. I am also really interested in neuroscience and neuroengineering because I think the brain is a field that lacks a lot of information that could be crucial to solving many of the medical mysteries we encounter today. My year-long project for this class is a joint effort with other people in my class to help design and improve assistive technology devices for the patients in the Atrium Carolina's Rehabilitation Center and can be found at this link: https://github.com/26wickhm/pearl"
   # links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
