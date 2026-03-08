@@ -316,7 +316,7 @@ Printed clamp bottom:
 
 Printed clamp pieces all together:
 ![IMG_1488](https://github.com/user-attachments/assets/4faafe77-886b-42cb-b4dc-e8c08bbe0dea)
-https://github.com/user-attachments/assets/9763c9c1-b3f1-405d-b995-c47a213f459f
+[Download video](https://github.com/user-attachments/assets/9763c9c1-b3f1-405d-b995-c47a213f459f)
 
 # 02/30
 No class
