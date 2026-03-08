@@ -31,21 +31,26 @@ Possible materials: Aluminum, Acetal, and Reinforced Plastic
 
 **Expenses** 
 
-The cost of PLA thus far is $6.30
-
+PLA for one clamp is approximately $15.00
+A bag of heat-set threaded inserts is on average about $20.00
+A bag of screws is on average about $6.00
+A bag of nuts is on average about $10.00 for hundreds
+A roll of rubber grip tape is $7.00
+A roll of spring wire can be found at $150.00 for 500 feet, which is 30 cents/foot 
+In total, the cost for one mount is about $17.00 which is a very significant decrease in price compared to the current clamps available on the market.
 
 **Tools**
 
-For this particular project, just the 3D printers are necessary. We are aiming to keep these designs simple due to the Atrium Rehab Center only having access to a 3D printer and other limited equipment. We will potentially outsource the mounts to be made once we have finalized the design.
+- 3D printer
+- Heat gun for heat-set threaded inserts
 
 ---
 ### Moving Forward 
 
-* Finding a more sturdy material to print with. Find a balance of stability, cost, and weight
-* Redesigning the clamps so they fit onto tables and wheelchairs (rounded and flat surfaces)
-* Design mount attachments focusing mainly on the ball joint as the connecting point
-* Tightening the joints between the arms, making them more secure
-* Making the arms snap into place more easily
+* Finding a balance of stability, cost, and weight
+* Replicate the spring mechanism
+* Use the threaded inserts
+* Adapt design to fit the modular hose
 
 ---
 
