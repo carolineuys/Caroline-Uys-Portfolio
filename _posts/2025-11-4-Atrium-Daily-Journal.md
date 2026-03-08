@@ -289,9 +289,15 @@ clamp top downloadable .stl file: [Download clamp top.stl](https://github.com/ca
 
 adjustable piece downloadable .stl file: [Download adaptable piece 3.stl](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Atrium/adaptable%20piece%203.stl)
 
+Printed clamp top and adjustable piece:
+![IMG_1481](https://github.com/user-attachments/assets/8ade60e3-eefe-48d5-83fb-a87ae2320348)
+
+
 # 02/25
 I started the bottom part of the clamp today with a rough outline, just trying to get the general shape of the piece. I did not face any difficulties with doing this since the only functions I was using were creating rectangles/triangles and extruding faces. 
 <img width="924" height="572" alt="clampbottomv1" src="https://github.com/user-attachments/assets/0586a2be-5b3a-4504-9890-af8345768db9" />
+![IMG_1482](https://github.com/user-attachments/assets/10448634-6668-471c-9841-f6916ca94cbb)
+![IMG_1483](https://github.com/user-attachments/assets/897c344c-d81f-432a-89a6-569baf61e13f)
 
 # 02/26
 No class
@@ -303,6 +309,14 @@ My final touches were just adding fillets to the edges to make them more smoothe
 <img width="799" height="543" alt="clampbottomv2" src="https://github.com/user-attachments/assets/10f88ff0-5d68-416d-a173-5cb8c542d7d8" />
 
 clamp bottom downloadable .stl file: [Download clamp bottom.stl](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Atrium/clamp%20bottom.stl)
+
+Printed clamp bottom:
+![IMG_1486](https://github.com/user-attachments/assets/cd7b37fd-4fb5-4340-80f2-80c7b5a6ea9d)
+![IMG_1487](https://github.com/user-attachments/assets/c05a5f17-041d-4bef-bdf7-c0e8b2ca1ce2)
+
+Printed clamp pieces all together:
+![IMG_1488](https://github.com/user-attachments/assets/4faafe77-886b-42cb-b4dc-e8c08bbe0dea)
+https://github.com/user-attachments/assets/9763c9c1-b3f1-405d-b995-c47a213f459f
 
 # 02/30
 No class
