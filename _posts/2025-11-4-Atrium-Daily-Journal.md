@@ -285,6 +285,10 @@ The most challenging part was keeping everything centered without overconstraini
 # 02/18-24
 During this period of time I had a lot of trial and error with printing the two pieces because the adjustable piece did not fit into either the clamp top that I had replicated or the original because the midsection was too short. After adjusting the midsection it fits into the original clamp. After printing the top of the clamp I realized that I had make the holes where the adjustable piece should attack too small, so I had to go back into the fusion design to create larger ones. This was an easy fix as I just had to go back into the timeline and change the dimensions of a couple circles. I also enlarged some of the other parts where screws need to be inserted because they came out too small. A problem that I have been trying to solve is having the correct threading for the screws that are normally used with the clamp, as Fusion 360 does not always have the correct threading. After doing some research, I found that I can use heat-set threaded inserts which will melt the filament as I push them into the holes and then solidify inside the piece once it cools. This will be much better since threading can strip over time especially when the material is filament, so this will last longer and I can choose the correct threading instead of having to change the screws that are used as well.
 
+clamp top downloadable .stl file: [Download clamp top.stl](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Atrium/clamp%20top.stl)
+
+adjustable piece downloadable .stl file: [Download adaptable piece 3.stl](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Atrium/adaptable%20piece%203.stl)
+
 # 02/25
 I started the bottom part of the clamp today with a rough outline, just trying to get the general shape of the piece. I did not face any difficulties with doing this since the only functions I was using were creating rectangles/triangles and extruding faces. 
 <img width="924" height="572" alt="clampbottomv1" src="https://github.com/user-attachments/assets/0586a2be-5b3a-4504-9890-af8345768db9" />
@@ -295,17 +299,19 @@ No class
 # 02/27
 I added the two studs in the middle today and also created the space where the rubber grip tape will be inserted. One challenge I ran into during this part was creating the flat edges on the round studs so they would fit properly with the top piece of the clamp. I had to adjust the measurements several times and redo multiple extrusions and sketches to get everything to line up correctly.
 One thing that helped a lot during this process was being able to go back into the timeline and edit earlier sketches instead of starting over. To make sure both studs were mirror images of each other, I created an offset plane in the center of the piece and then used the mirror tool to duplicate the feature onto the other side.
+My final touches were just adding fillets to the edges to make them more smoothe.
 <img width="799" height="543" alt="clampbottomv2" src="https://github.com/user-attachments/assets/10f88ff0-5d68-416d-a173-5cb8c542d7d8" />
+clamp bottom downloadable .stl file: [Download clamp bottom.stl](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Atrium/clamp%20bottom.stl)
 
 # 02/30
 No class
 
 # 02/31
 In preparation for our meeting with Ms. Heather Smith tomorrow, Karlin, Scarlett, Marisol and I created a meeting agenda addressing the different questions and updates we had for her. These are the notes/topics I want to discuss with her:
-Done with the design, I just need to add in the inserts
-Show her the design and show her the inserts
-I also need to figure out the spring part
-Ask about how we want the mount insert to work because it isn’t something i can model in Fusion
+- Done with the design, I just need to add in the inserts
+- Show her the design and show her the inserts
+- I also need to figure out the spring part
+- Ask about how we want the mount insert to work because it isn’t something i can model in Fusion
 
 # 02/32
 Today we met with Ms. Smith. After showing her the completed design, I asked about the issue with the section where the mount is inserted into the clamp. She explained that it was not necessary to keep that feature in the design because it is mainly used for quickly moving a mount from one place to another, which is not something that is used regularly. She also suggested creating an alternative version of the design with a top that the modular hose can snap onto. To do this, I will create a new body in Fusion360 and model the shape of one of the modular hose segments. I will then integrate that piece into the existing design I have already created. Finally, we discussed the next steps for the project, which include installing the heat set threaded inserts into the design and finding a way to replicate the spring component of the clamp.
