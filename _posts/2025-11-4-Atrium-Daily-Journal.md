@@ -301,6 +301,7 @@ I added the two studs in the middle today and also created the space where the r
 One thing that helped a lot during this process was being able to go back into the timeline and edit earlier sketches instead of starting over. To make sure both studs were mirror images of each other, I created an offset plane in the center of the piece and then used the mirror tool to duplicate the feature onto the other side.
 My final touches were just adding fillets to the edges to make them more smoothe.
 <img width="799" height="543" alt="clampbottomv2" src="https://github.com/user-attachments/assets/10f88ff0-5d68-416d-a173-5cb8c542d7d8" />
+
 clamp bottom downloadable .stl file: [Download clamp bottom.stl](https://github.com/carolineuys/Caroline-Uys-Portfolio/blob/master/assets/files/Atrium/clamp%20bottom.stl)
 
 # 02/30
