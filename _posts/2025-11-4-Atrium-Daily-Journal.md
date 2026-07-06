@@ -327,20 +327,20 @@ Printed clamp pieces all together:
 # 02/30
 No class
 
-# 02/31
+# 03/2
 In preparation for our meeting with Ms. Heather Smith tomorrow, Karlin, Scarlett, Marisol and I created a meeting agenda addressing the different questions and updates we had for her. These are the notes/topics I want to discuss with her:
 - Done with the design, I just need to add in the inserts
 - Show her the design and show her the inserts
 - I also need to figure out the spring part
 - Ask about how we want the mount insert to work because it isn’t something i can model in Fusion
 
-# 02/32
+# 03/3
 Today we met with Ms. Smith. After showing her the completed design, I asked about the issue with the section where the mount is inserted into the clamp. She explained that it was not necessary to keep that feature in the design because it is mainly used for quickly moving a mount from one place to another, which is not something that is used regularly. She also suggested creating an alternative version of the design with a top that the modular hose can snap onto. To do this, I will create a new body in Fusion360 and model the shape of one of the modular hose segments. I will then integrate that piece into the existing design I have already created. Finally, we discussed the next steps for the project, which include installing the heat set threaded inserts into the design and finding a way to replicate the spring component of the clamp.
 
-# 02/33
+# 03/4
 We watched presentations during class today.
 
-# 02/34
+# 03/5
 I presented today and then watched others present.
 
 ---
